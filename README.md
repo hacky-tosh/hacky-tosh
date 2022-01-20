@@ -1,23 +1,3 @@
-<!-- - 👋 Hi, I’m @hacky-tosh
-- 👀 I’m interested in coding, cloud computing, web apps etc
-- 🌱 I’m currently learning alot of cool stuffs
-- 💞️ I’m looking to collaborate on many projects
-- 📫 How to reach me : bankashu74@gmail.com
-
-
-<!---
-hacky-tosh/hacky-tosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
- -->
- 
- [<img src="./typing intro.gif" alt="Hi, I amHarshil">](https://github.com/harshil-270/)
-
-<!-- Intro -->
-<!-- Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> . I am a competitive programmer and full stack web developer.  -->
-
-
-
 
 ## 📖 About Me
 - 🎓 I am Ashutosh Sahu, a pre-final year CSE student 
