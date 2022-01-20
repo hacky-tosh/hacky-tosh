@@ -21,10 +21,10 @@
 ## 🔧 Technologies & Tools
 
 ![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-43853D?style=for-the-badge&logo=Django&logoColor=white)
+![Django](https://img.shields.io/badge/Django-323330?style=for-the-badge&logo=DJango&logoColor=F7DF1E)
 ![Javascript](https://img.shields.io/badge/JavaScript-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
-![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=4EA94B)
+![MySQL](https://img.shields.io/badge/MySQL-F7DF1E?style=for-the-badge&logo=mysql&logoColor=4EA94B)
 
 ![Python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=Python&logoColor=F7DF1E)  
 ![C/C++](https://img.shields.io/badge/C-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
