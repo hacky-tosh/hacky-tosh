@@ -45,7 +45,7 @@
   
 <span width="100%" stlye="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=hacky-tosh&show_icons=true&theme=tokyonight" alt="Harshil's Github Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacky-tosh&layout=compact&theme=tokyonight" alt="Harshil's most used languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacky-tosh&layout=compact&theme=tokyonight" alt="Ashu's most used languages" height="180px" />
 </span>
 <!--   
 
